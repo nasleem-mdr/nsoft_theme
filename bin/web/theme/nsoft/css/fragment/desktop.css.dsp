@@ -1,6 +1,6 @@
 <%-- header --%>
 .desktop-north {
-	background-color: #879EC6;
+	background-color: #54668E;
 	border-bottom: 1px solid #ADDDFF !important;
 }
 <%-- left panel for logo and global search --%>
@@ -50,7 +50,7 @@
 	float: right;
 	height: 45px;
 	padding-right: 5px;
-	color: white;
+	color: #fff !important;
 }
 .desktop-user-panel tr {
 	vertical-align: middle;
