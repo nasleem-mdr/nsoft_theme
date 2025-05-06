@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: NSoft Theme
+Bundle-SymbolicName: org.idempiere.zk.nsoft.theme
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: org.adempiere.ui.zk;bundle-version="12.0.0"
+Automatic-Module-Name: org.idempiere.zk.nsoft.theme
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Jetty-WarPrependFragmentResourcePath: /
