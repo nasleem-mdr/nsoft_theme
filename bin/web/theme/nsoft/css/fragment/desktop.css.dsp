@@ -26,7 +26,7 @@
 <%-- user name and links --%>
 .desktop-header-font {
 	font-size: 10px;
-	
+	color: #fff !important;
 }
 
 <%-- popup container for collapsed desktop header --%>
@@ -71,7 +71,7 @@
 }
 .desktop-header-username:hover {
 	background: #e0f2ff;
-	color: rgba(0,0,0,0.9);
+	color: rgba(1,1,0,0.9);
 }
 
 <%-- user panel popup for mobile client --%>

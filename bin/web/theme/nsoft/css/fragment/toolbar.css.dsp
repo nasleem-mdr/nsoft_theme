@@ -112,7 +112,7 @@
 	color :#333;
 }
 .font-icon-toolbar-button.toolbar-button:hover {
-	color: #fff;
+	color: #657599;
 	background-color: #7ac8ff;
 }
 .font-icon-toolbar-button.toolbar-button, .font-icon-toolbar-button.toolbar-button .z-toolbarbutton-content {
@@ -121,7 +121,7 @@
 	justify-content: center; 
 }
 .font-icon-toolbar-button .z-toolbarbutton-content {
-	color: inherit;
+	color: #54668E;
 }
 .font-icon-menuitem i {
 	vertical-align: middle;

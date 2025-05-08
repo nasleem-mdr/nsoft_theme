@@ -67,7 +67,7 @@
 	background-color: #FFF;
 	padding: 0px;
 	padding-left: 5px;
-	border-bottom: 1px solid #C5C5C5 !important;
+	border-bottom: 3px solid #54668E !important;
 	display: flex;
 	align-items: center;
 	flex-wrap: wrap;
