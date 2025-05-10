@@ -50,7 +50,7 @@
 	width:100%;
 }
 .z-toolbarbutton [class^="z-icon-"] {
-	color: inherit;
+	color: #0093f9;
 }
 .z-toolbarbutton.toolbarbutton-with-text [class^="z-icon-"] {
 	padding-right: 4px;
@@ -70,7 +70,7 @@
 .z-toolbarbutton {
 	display: inline-flex;	
 	align-items: center;
-	color: #333;
+	color: #0093f9;
 	flex-shrink: 0;
 }
 .z-toolbarbutton .z-toolbarbutton-content {
